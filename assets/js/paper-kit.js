@@ -138,7 +138,7 @@ $(document).ready(function() {
     }
   }
 
-  // Change the collor of navbar collapse
+  // Change the color of navbar collapse
   $('#navbarToggler').on('show.bs.collapse', function() {
     if ($('nav').hasClass('navbar-transparent') && $(document).scrollTop() < 50) {
       $('.navbar').addClass('no-transition');
