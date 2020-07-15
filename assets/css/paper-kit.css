@@ -3875,8 +3875,8 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-success {
-  background-color: #6bd098;
-  border-color: #6bd098;
+  background-color: #0d9445;
+  border-color: #0d9445;
   color: #FFFFFF;
   opacity: 1;
   filter: alpha(opacity=100);
@@ -8794,7 +8794,7 @@ textarea.form-control {
 }
 
 .icon-success {
-  color: #6bd098;
+  color: #0d9445;
 }
 
 .icon-warning {
@@ -9558,6 +9558,7 @@ textarea.form-control {
 
 .page-header .description {
   color: #FFFFFF;
+  font-weight: 700;
 }
 
 .header-video.state-play .filter::after {
@@ -13638,6 +13639,10 @@ body {
 .section-dark-blue {
   background-color: #506367;
   color: #FFFFFF;
+}
+
+.section-dark-blue .title {
+  color:#ffffff
 }
 
 .section-dark {
