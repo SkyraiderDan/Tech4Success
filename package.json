@@ -1,0 +1,30 @@
+{
+  "name": "tech4successllc",
+  "version": "1.0.0",
+  "description": "Website for Tech4Success",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkyraiderDan/Tech4SuccessLLC.git"
+  },
+  "keywords": [
+    "Tech4Success",
+    "Website",
+    "SkyraiderDan"
+  ],
+  "author": "Daniel Scheiner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkyraiderDan/Tech4SuccessLLC/issues"
+  },
+  "homepage": "https://github.com/SkyraiderDan/Tech4SuccessLLC#readme"
+}
